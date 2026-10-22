@@ -1,6 +1,6 @@
 # Grade Calculator Program
 # Calculates average score and determines letter grade
-
+# Updated file
 def calculate_grade(average):
     if average >= 90:
         return 'A'
